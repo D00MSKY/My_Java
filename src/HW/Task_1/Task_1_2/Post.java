@@ -1,6 +1,6 @@
-package HW.Task_1;
+package HW.Task_1.Task_1_2;
 
-public class User {
+public class Post {
 
     private int userId;
     private int id;
@@ -8,10 +8,10 @@ public class User {
     private String body;
 
 
-    public User() {
+    public Post() {
     }
 
-    public User(int userId, int id, String title, String body) {
+    public Post(int userId, int id, String title, String body) {
         this.userId = userId;
         this.id = id;
         this.title = title;

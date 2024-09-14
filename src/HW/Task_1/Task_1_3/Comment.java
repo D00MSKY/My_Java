@@ -1,4 +1,4 @@
-package HW.Task_1;
+package HW.Task_1.Task_1_3;
 
 public class Comment {
     private int postId;
